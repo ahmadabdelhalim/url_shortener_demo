@@ -13,6 +13,7 @@ Rails web app that uses the [Url Shortener Gem](https://github.com/ahmadabdelhal
 $ git clone git@github.com:ahmadabdelhalim/url_shortener_demo.git
 $ cd url_shortener_demo/
 $ bin/setup
+$ yarn install
 $ rails s
 ```
 
